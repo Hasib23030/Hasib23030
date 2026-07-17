@@ -43,13 +43,11 @@ Transforming Data into Actionable Insights • Driving Business Decisions Throug
 
 💼 Interested in:
 
-* Data Analyst
-* Business Analyst
-* Business Intelligence Analyst
 * Operations Analyst
 * Reporting Analyst
-* Marketing Analyst
-* Financial Analyst
+* Business Analyst
+* Data Analyst
+
 
 ✅ Authorized to work in the United States
 
