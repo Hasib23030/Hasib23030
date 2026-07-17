@@ -2,7 +2,7 @@
 
 <div align="center">
 
-### 📊 Data Analyst | Business Analyst | Business Intelligence Enthusiast | STEM Business Analytics Graduate Student
+### 📊 Reporting Analyst | Business Analyst | Operation Aanalyst | STEM Business Analytics Graduate Student
 
 <p>
 Transforming Data into Actionable Insights • Driving Business Decisions Through Analytics • Passionate About AI, Business Intelligence & Data Storytelling
